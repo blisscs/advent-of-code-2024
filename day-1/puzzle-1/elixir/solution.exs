@@ -1,5 +1,5 @@
 {list1, list2} =
-  File.read!("input.txt")
+  File.read!("../input.txt")
   |> String.split("\n")
   |> Enum.reduce({[], []}, fn line, {list1, list2} ->
     Regex.named_captures(~r/(?<left>\d+)\s+(?<right>\d+)/, line)
