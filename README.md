@@ -4,6 +4,7 @@ will be implemented using three languages namely - elixir, rust and javascript.
 ## Folder Structure
 - day-`n`
   - puzzle-`i`
-    - solution-rs (for rust) 
-    - solution-ex[s] (for elixir)
+    - rust `(for cargo project)`
+    - elixir `(for elixir file or mix project)`
+      - solution.ex[s] 
     - solution-js (for javascript)
