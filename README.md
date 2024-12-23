@@ -5,5 +5,5 @@ will be implemented using three languages namely - elixir, rust and javascript.
 - day-`n`
   - puzzle-`i`
     - solution-rs (for rust) 
-    - solution-ex (for elixir)
+    - solution-ex[s] (for elixir)
     - solution-js (for javascript)
