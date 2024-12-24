@@ -7,4 +7,5 @@ will be implemented using three languages namely - elixir, rust and javascript.
     - rust `(for cargo project)`
     - elixir `(for elixir file or mix project)`
       - solution.ex[s] 
-    - solution-js (for javascript)
+    - js
+      - solution.[m]js
